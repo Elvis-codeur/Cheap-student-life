@@ -36,8 +36,8 @@ main()
 ## Data sources and AI methods
 The data comes from the users. The give the position of the sell point and the prices. It is like Wikipedia but for Shopping. 
 The AI methods I will use are :
-*Regression
-*The nearest neighboor method
+* Regression
+* The nearest neighboor method
 
 ## Challenges
 
