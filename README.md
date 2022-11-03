@@ -49,3 +49,5 @@ Yes the project can become very big. I will need Web developer(both frontend and
 
 
 ## Acknowledgments
+* First All my thanks to God who gave the knowledge to complete this course. 
+* Secondly I thank the building IA project owners.Your course is very good and very helpfull. Love you so much.
